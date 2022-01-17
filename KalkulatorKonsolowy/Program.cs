@@ -12,13 +12,11 @@ namespace KalkulatorKonsolowy
             x = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Podaj drugą liczbę:");
             y = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Podaj rodzaj obliczeń:");
+            Console.WriteLine("Podaj symbol: \n + : dodawanie \n - : odejmowanie \n * : mnożenie \n / : dzielenie \n % : modulo");
             sign = Convert.ToChar(Console.ReadLine());
 
             Calculate(ref sign, ref x, ref y);
             Console.WriteLine(result);
         }
     }
-
-
 }

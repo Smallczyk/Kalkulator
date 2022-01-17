@@ -16,13 +16,17 @@ namespace KalkulatorKonsolowy
                     result = x * y;
                     break;
                 case '/':
-                    result = x / y;
+                    if (y == 0) Console.WriteLine("Nie dziel przez zero");
+                    else result = x / y;
                     break;
                 case '-':
                     result = x - y;
                     break;
                 case '%':
                     result = x % y;
+                    break;
+                default:
+                    Console.WriteLine("Niepoprawny symbol");
                     break;
             }
         } 
