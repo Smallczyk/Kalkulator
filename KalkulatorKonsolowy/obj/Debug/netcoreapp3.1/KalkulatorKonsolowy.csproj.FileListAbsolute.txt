@@ -1,0 +1,14 @@
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\bin\Debug\netcoreapp3.1\KalkulatorKonsolowy.exe
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\bin\Debug\netcoreapp3.1\KalkulatorKonsolowy.deps.json
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\bin\Debug\netcoreapp3.1\KalkulatorKonsolowy.runtimeconfig.json
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\bin\Debug\netcoreapp3.1\KalkulatorKonsolowy.runtimeconfig.dev.json
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\bin\Debug\netcoreapp3.1\KalkulatorKonsolowy.dll
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\bin\Debug\netcoreapp3.1\KalkulatorKonsolowy.pdb
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\obj\Debug\netcoreapp3.1\KalkulatorKonsolowy.csproj.AssemblyReference.cache
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\obj\Debug\netcoreapp3.1\KalkulatorKonsolowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\obj\Debug\netcoreapp3.1\KalkulatorKonsolowy.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\obj\Debug\netcoreapp3.1\KalkulatorKonsolowy.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\obj\Debug\netcoreapp3.1\KalkulatorKonsolowy.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\obj\Debug\netcoreapp3.1\KalkulatorKonsolowy.dll
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\obj\Debug\netcoreapp3.1\KalkulatorKonsolowy.pdb
+C:\Users\Dawid\source\repos\KalkulatorKonsolowy\KalkulatorKonsolowy\obj\Debug\netcoreapp3.1\KalkulatorKonsolowy.genruntimeconfig.cache
